@@ -11,8 +11,8 @@ The easiest way to run the tutorials is to use Colab:
 |--------------------------------------------------|---|
 | Ring of Fire                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/00_ring_of_fire.ipynb) |
 | PGV from data                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/02_pgv_data.ipynb) |
-| Magnitude-frequency relation          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut02_okada.ipynb) |
-| PGA calculation from GMPE             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut02_okada.ipynb) |
+| Magnitude-frequency relation          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/03_mag_fre.ipynb) |
+| PGA calculation from GMPE             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/04_p_d_SHA.ipynb) |
 | Hazard Maps                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut02_okada.ipynb) |
 
 ## Run the Tutorials Locally
